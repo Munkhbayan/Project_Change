@@ -237,6 +237,92 @@ body
 	bottom: 0;
 }
 
+.LoginBox		/*Below is Login Box Stuff*/
+{
+	position: absolute;
+	width: 600px;
+	height: 500px;
+	left: 420px;
+	top: 160px;
+	background-color: grey;
+	font-family: "Roboto";
+}
+
+.TopLoginBar
+{
+	position: absolute;
+	width: 100%;
+	height: 70px;
+	top: 0;
+	left: 0;
+	background-color: #ff4b4b;
+	font-size: 25px;
+	text-align: center;
+}
+
+#LoginBackground
+{
+	position: absolute;
+	left: 0;
+	top: 57px;
+	height: 746px;
+	width: 1440px;
+	filter: blur(10px);
+}
+
+#AdminButton
+{
+	display: block;
+	position: absolute;
+	width: 350px;
+	height: 70px;
+	top: 120px;
+	left: 125px;
+	font-size: 30px;
+	background-color: #ff4b4b;
+	border-color: #ff4b4b;
+}
+
+#TeacherButton
+{
+	display: block;
+	position: absolute;
+	width: 350px;
+	height: 70px;
+	top: 230px;
+	left: 125px;
+	font-size: 30px;
+	background-color: #ff4b4b;
+	border-color: #ff4b4b;
+}
+
+#StudentButton
+{
+	display: block;
+	position: absolute;
+	width: 350px;
+	height: 70px;
+	top: 340px;
+	left: 125px;
+	font-size: 30px;
+	background-color: #ff4b4b;
+	border-color: #ff4b4b;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
