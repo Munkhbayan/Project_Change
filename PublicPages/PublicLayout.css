@@ -1,5 +1,7 @@
 body
 {
+	max-height: 1580px;
+	max-width: 100%;
 	background-color: white;
 }
 
@@ -133,7 +135,7 @@ body
 	width: 60%;
 	background-color: white;
 	height: 500px;
-	top: 595px;
+	top: 545px;
 	right: 0;
 
 }
@@ -169,8 +171,8 @@ body
 {
 	position: absolute;
 	width: 30%;
-	height: 60px;
-	top: 595px;
+	height: 500px;
+	top: 545px;
 	left: 0;
 }
 
@@ -187,12 +189,53 @@ body
 
 .Features		/*Below is Features Stuff*/
 {
-	width: 60%;
+	height: 500px;
+	width: 100%;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 1080px;
+	background-color: white;
+	font-family: "Roboto";
+	font-size: 30px;
 }
 
+#TempPic2
+{
+	position: absolute;
+	width: 600px;
+	height: 450px;
+	top: 25px;
+	bottom: 25px;
+	margin-left: 50px;
+	margin-right: 50px;
+	right: 50px;
+}
 
+#FeatureList
+{
+	position: absolute;
+	top: 75px;
+	left: 150px;
+}
 
+#BorderTop2
+{
+	width: 45%;
+	height: 60px;
+	position: absolute;
+	left: 0;
+	top: 0;
+}
 
+#BorderBottom2
+{
+	width: 45%;
+	height: 60px;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+}
 
 
 
